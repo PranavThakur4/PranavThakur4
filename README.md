@@ -1,4 +1,5 @@
-## Hi there 👋
+## Bio 👋
+Mechanical engineer specializing in aerospace and defense manufacturing, with hands-on experience in CNC machining, CAD modeling, and programming. Skilled in optimizing production processes, conducting quality control, and managing full product cycles. Background in rocketry and payload development for the Spaceport America Cup with a student team, where I designed, tested, and led launch operations. Published research on payload deployment mechanisms, with a patent filed for a novel non-pyrotechnic system. Proficient in tools like Mastercam, CATIA, ANSYS, and MATLAB, with programming skills in Python, SQL, and web technologies. Passionate about innovation, sustainability, and technical leadership.
 
 <!--
 **PranavThakur4/PranavThakur4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
